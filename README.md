@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Yash Parmar</h1>
-<h3 align="center">AI/ML Engineer · Agentic AI · LLM Applications · Workflow Automation</h3>
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=120&section=header&text=Hi%20there,%20I'm%20Yash!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;Agentic+AI+%7C+LLM+Applications;LangChain+%7C+LangGraph+%7C+n8n;RAG+Pipelines+%7C+Workflow+Automation;Always+learning+something+new+🚀" alt="Typing SVG" />
+</p>
+
+<!-- Social links -->
 <table align="center"><tr>
 <td><a href="https://twitter.com/whooyash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whooyash" height="30" width="40"/></a></td>
 <td><a href="https://linkedin.com/in/yash-parmar-5a3222221" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-parmar-5a3222221" height="30" width="40"/></a></td>
@@ -70,3 +76,6 @@
 ### ⚡ Interests
 
 Cycling &nbsp;·&nbsp; Photography &nbsp;·&nbsp; Traveling &nbsp;·&nbsp; Reddit
+
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:6e40c9&height=80&section=footer"/>
