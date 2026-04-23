@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Parmar</h1>
 <h3 align="center">AI/ML Engineer · Agentic AI · LLM Applications · Workflow Automation</h3>
 
-<p align="center">
-  <a href="https://twitter.com/whooyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whooyash" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/yash-parmar-5a3222221" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-parmar-5a3222221" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/whooyash" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whooyash" height="30" width="40" />
-  </a>
-</p>
+<table align="center"><tr>
+<td><a href="https://twitter.com/whooyash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whooyash" height="30" width="40"/></a></td>
+<td><a href="https://linkedin.com/in/yash-parmar-5a3222221" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-parmar-5a3222221" height="30" width="40"/></a></td>
+<td><a href="https://instagram.com/whooyash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whooyash" height="30" width="40"/></a></td>
+</tr></table>
 
 ---
 
